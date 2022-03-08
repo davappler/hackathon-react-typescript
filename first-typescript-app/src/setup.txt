@@ -1,0 +1,1 @@
+after every change run => "npm run magic" this command will build the bundle.js in the dist folder. then open index.html to see changes.
