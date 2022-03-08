@@ -6,7 +6,7 @@ ReactDOM.render(
     <div>
       <h1>Hello, Welcome to React and TypeScript</h1>
       <FirstComponent/>
-      <UserComponent name="John Doe" age={26} address="87 Summer St, Boston, MA 02110" dob={new Date()} />
+      <UserComponent name="Davinder Singh" age={0} address="87 Summer St" dob={new Date()} />
     </div>,
     document.getElementById("root")
 );
